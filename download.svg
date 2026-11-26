@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="64" viewBox="0 0 360 64" role="img" aria-label="Скачать для Windows — Prodavlivanie-plity.exe">
+  <title>Скачать для Windows — Prodavlivanie-plity.exe</title>
+  <rect x="0.5" y="0.5" width="359" height="63" rx="14" fill="#3d5a80" stroke="#2a3f5a"/>
+  <rect x="12" y="12" width="40" height="40" rx="10" fill="#ffffff" fill-opacity="0.14"/>
+  <g fill="none" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 21v16"/>
+    <path d="M25.5 31.5L32 38l6.5-6.5"/>
+    <path d="M23 43h18"/>
+  </g>
+  <text x="66" y="29" fill="#ffffff" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="18" font-weight="600">Скачать для Windows</text>
+  <text x="66" y="48" fill="#ffffff" fill-opacity="0.82" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="12.5">Prodavlivanie-plity.exe · без установки</text>
+</svg>
